@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElliotMRX
 
 <div align="center">
- <img align="right" alt="GIF" src="https://giphy.com/gifs/loop-glitch-matrix-3o7btPSUgEgcFybC36" width="250" height="160" />  <img align="right" alt="GIF" 
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7btPSUgEgcFybC36/giphy.gif?cid=790b76115852e1e2bbf53f428a09fb196c0c8a3b13f6bffa&rid=giphy.gif&ct=g" width="250" height="160" />
  
 </div>

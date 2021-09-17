@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @ElliotMRX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ElliotMRX/ElliotMRX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+ <img align="right" alt="GIF" src="https://giphy.com/gifs/loop-glitch-matrix-3o7btPSUgEgcFybC36" width="250" height="160" />  <img align="right" alt="GIF" src="https://giphy.com/gifs/loop-glitch-matrix-3o7btPSUgEgcFybC36" width="250" height="160" /> 
+ 
+</div>
